@@ -92,5 +92,5 @@ This project utilizes machine learning models to predict the likelihood of strok
 
 ### **_Milestone 5:_ UI IMAGE with Streamlit**
 
-![Alt Text](./Web UI IMG.png)
+![Alt Text](./Stroke_Patient_Healthcare_Using_Deep_Learning_Project/Web UI IMG.png)
 
