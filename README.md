@@ -89,3 +89,8 @@ This project utilizes machine learning models to predict the likelihood of strok
 🎯 **Goal:** Improve stroke prediction accuracy and assist healthcare providers in early detection with more reliable models and tools.
 
 ---
+
+### **_Milestone 5:_ UI IMAGE with Streamlit**
+
+![Alt Text](./WEB UI IMG.png)
+
